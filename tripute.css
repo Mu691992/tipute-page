@@ -1,0 +1,45 @@
+html,
+body {
+    background: #eee;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    font-size: 3em;
+}
+
+#img-div {
+    background: white;
+    margin: auto;
+    padding: 1.5em;
+}
+
+ul {
+    margin: 30px 15%;
+
+}
+
+li {
+    text-align: start;
+    padding: .7em;
+    line-height: 1.4em;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-lin {
+    font-size:2em;
+    margin: 2em;
+}
+
+#tribute-link  {
+    text-decoration: none;
+    color:blue;
+}
